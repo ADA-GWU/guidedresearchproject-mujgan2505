@@ -1,0 +1,18 @@
+Context-aware ESM
+Summary
+Experience sampling during field studies, so that the system detects the current context (e.g. location, time, nearby devices) and when the context fulfills predefined criteria, the system prompts the participant to report their experience.
+
+Description
+The users may be asked to report many kinds of data, e.g. what they feel right now, what feelings were triggered in previous interactions, or their overall evaluation about the system. The data format that users will produce may be questionnaire choices, free text, audio recording, image, or video. The data may be sent to the researchers right away, stored in the system for later use, or reported on paper that are collected later on.
+
+Strengths
+Allows the researchers to collect experience data without being with the participant on the field.
+The method is suitable for collecting information that is somehow related to the current context.
+
+Weaknesses
+The current situation may be inappropriate for reporting user’s experience. The user might not be using the system when the system prompts her. The query might interrupt the experience and trigger negative emotions.
+
+References describing the method
+S.S. Intille, J. Rondoni, C. Kukla, I. Anacona, and L. Bao. A context-aware experience sampling tool. In Proceedings of the Conference on Human Factors and Computing Systems: Extended Abstracts. ACM Press, 2003.
+
+Froehlich, J., et al.
