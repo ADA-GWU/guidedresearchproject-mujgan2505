@@ -1,0 +1,22 @@
+Kansei Engineering Software
+Summary
+The software follows the Kansei Engineering procedure suggested by Sch
+
+Description
+In its present version KESo generates webpages using predefined Kansei Engineering words and product properties as basic data. On the webpage Semantic Differential Scales are created where users can rate the affective impact of the product in question.
+
+This user data is collected and stored in a data bank.
+
+After enough data for a sufficient statistical strength is collected, a Quantification Theory Type I- analysis can be performed. QT1 creates a linear regression model connecting the Kansei words to certain product properties. In this way a prediction model is created which can be used in order to optimize the product lay out in a way that a certain feeling is evoked by its appearance or behavior.
+
+Strengths
+Kansei Engineering evaluation usually takes much time and requires expert knowledge in the areas of psychology, statistics and engineering. The KESo software is a tool for automatic data collection and evaluation of the data according to Kansei Engineering rules, thereby making it more efficient and easier to apply Kansei Engineering evaluation method
+
+Weaknesses
+Kansei Engineering methodology provides a number of different linkage tools. The KESo software in its present version can only perform linear regression analysis using QT1.
+
+References describing the method
+Sch
+
+References about quality of the method
+http://www.ikp.liu.se/kansei
