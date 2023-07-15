@@ -1,0 +1,16 @@
+EMO2
+Summary
+Emo2 is an instrument for the measurement of emotion during product use. Most standard tools for the measurement of emotion provide overall rating along one or two dimensions or half a dozen basic emotions. Design-oriented tools (most notably PrEmo) overcome this limitation but are focused on sensory experience after static exposure to a product. We don’t know any tool designed to measure emotion over time, during interaction with a product, while providing rich feedback to designers. Self-confrontation allows the collection of extended data on the user experience without interfering with the interaction.
+
+Description
+Test participants are filmed while interacting with a product. Immediately afterwards they watch this video and can report about their feelings during the interaction. Ratings can be collected at predefined points in time (fixed interval, after completion of a task, etc.), when the participants want to report their feelings or when psychophysiological data (skin conductance, cardiac function and possibly facial EMG) indicate a change in arousal or an emotional response.
+
+Strengths
+We don’t know any tool designed to measure emotion over time, during interaction with a product, while providing rich feedback to designers. Self-confrontation allows the collection of extended data on the user experience without interfering with the interaction. Psychophysiological indicators could be included to increase the quality of the measurement. The exact scales used are not yet defined at this stage but will be specifically designed for product use situations (with a strong emphasis on software, websites and consumer electronics).
+
+Weaknesses
+Self-confrontation and physiological measurement require a great deal of expertise and some expensive equipment. A lightweight version relying on punctual self- report might be made available but the advantage of self-confrontation would obviously be lost.
+Like of self-report measures, Emo2 might be vulnerable to cognitive and social biases. The design of studies with this tool is also very important to avoid demand characteristic effects (i.e. inducing spurious self-report from the participants).
+
+References describing the method
+Laurans, G., & Desmet, P.M.A. (2006). Using self-confrontation to study user experience: A new approach to the dynamic measurement of emotions while interacting with products. In: P.M.A. Desmet, M.A. Karlsson, and J. van Erp (Eds.), Design & Emotion 2006; Proceedings of The International Conference on Design and Emotion, September 27-29. Gothenburg, Sweden: Chalmers University of Technology.
