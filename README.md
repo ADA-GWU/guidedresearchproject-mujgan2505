@@ -1,5 +1,5 @@
 
-# User Experience (UX) Evaluation Methods
+# User Experience (UX) Evaluation Method
 
 ## General info
 Welcome to the GitHub repository for the UX Evaluation Methods project! Here, we aim to explore and share valuable insights into various User Experience (UX) evaluation methods used in the field of design and human-computer interaction. This repository contains the code and documentation for the New UX Evaluation Methodologies project. The objective of this project is to explore and develop new UX evaluation methodologies that address the limitations of existing approaches, enhance accuracy, efficiency, and comprehensiveness, and provide valuable insights into the user experience.
