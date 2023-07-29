@@ -22,7 +22,6 @@ User Experience (UX) evaluation is a critical aspect of the design process, allo
 
 3. Best Practices: The repository will include best practices and guidelines for conducting effective UX evaluations, ensuring the quality and validity of the results obtained.
 
-   
 ## Technologies
 Project is created with:
 * User Testing Platforms
