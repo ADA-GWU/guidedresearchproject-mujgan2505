@@ -38,6 +38,10 @@ As the sole contributor to this project, I encourage UX enthusiasts, designers, 
 4. Adding new information on best practices and guidelines.
 5. Let's work together, one step at a time, to create a comprehensive resource that empowers the UX community and elevates the quality of user experiences across the digital landscape.
 
+# License:
 
+All content in this repository is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). By contributing to this project, you agree to license your contributions under the same license.
+
+Thank you for joining me on this journey of creating and sharing knowledge about UX evaluation methods! Together, we can make a positive impact on the world of user experience design.
 	
 
