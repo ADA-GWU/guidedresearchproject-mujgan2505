@@ -1,5 +1,5 @@
 
-# User Experience (UX) Evaluation Methods
+# User Experience (UX) Evaluation Methods.
 
 ## General Info:
 
